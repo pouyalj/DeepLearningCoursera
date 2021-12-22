@@ -1,2 +1,2 @@
 # DeepLearningCoursera
-The Coursera Deep Learning Course Assignments
+The Coursera Deep Learning Models
